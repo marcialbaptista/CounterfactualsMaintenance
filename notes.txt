@@ -1,0 +1,70 @@
+BNN cross validation loss:
+Average training loss: 13.067677899178117
+Average test loss: 9.675339591503143
+
+Average testing loss: RMSE = 13.82 cycles
+
+BNN cross validation loss (checking the error):
+Average training loss: 9.670974588394165
+Average test loss: 9.536999162038166
+
+DNN 10 fold cross validation loss:
+Average training loss: 12.470343754697591
+Average validation loss: 8.929887452390458
+
+
+Bayesian Neural Network RMSE for 30 engines = 12.32 cycles
+Deterministic Neural Network RMSE for 30 engines = 11.531 cycles
+
+Smooth BNN cross validation loss:
+Average training loss: 7.274342441558838
+Average test loss: 7.370782416661581
+
+Smooth DNN cross validation loss:
+Average training loss: 7.011705493927002
+Average test loss: 5.707553388277689
+
+
+Evaluation completed for dataset FD001
+Bayesian Neural Network RMSE for 30 engines = 8.235333333333333 cycles
+STD for RMSE: 3.5342898943735874
+COV for RMSE: 0.42916172926093915
+
+_______Normalisation fix _______________
+
+Evaluation completed for dataset FD001
+Bayesian Neural Network RMSE for 100 engines = 15.617499999999998 cycles
+STD for RMSE: 12.893511278189818
+COV for RMSE: 0.825581000684477
+
+DNN performance of 10 fold cross validation
+Average training loss: 7.700486326217652
+Average test loss: 7.850002876080964
+
+BNN Performance of 10 fold cross validation
+Average training loss: 11.740078544616699
+Average test loss: 9.605813673922889
+
+_____True normalization fix___
+Evaluation completed for dataset FD001
+Bayesian Neural Network RMSE for 100 engines = 12.2416 cycles
+STD for RMSE: 12.349637521364379
+COV for RMSE: 1.0088254412302622
+
+Evaluation completed for dataset FD001
+Deterministic Neural Network RMSE for 100 engines = 11.5582 cycles
+STD for RMSE: 11.92912854480091
+COV for RMSE: 1.0320922414217535
+
+Bayesian Performance of 10 fold cross validation
+Average training loss: 8.843575572967529
+Average test loss: 8.412444957933928
+
+Deterministic Performance of 10 fold cross validation
+Average training loss: 3.575304913520813
+Average test loss: 6.365283945987099
+
+___For final paper____
+Denoised orig CV
+Average training loss: 6.332392883300781
+Average test loss: 7.534818299611411
